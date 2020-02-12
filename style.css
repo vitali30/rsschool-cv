@@ -1,0 +1,80 @@
+@font-face{
+    font-family:Gotham;
+    font-style:normal;
+    font-weight:500;
+    src:url(../rsschool-cv/font/Sriracha-Regular.ttf) 
+    }
+body{
+    width: 1024px;
+    margin: 0 auto;
+    }
+.body1{
+    background-color: rgb(74, 148, 182);
+    box-shadow: inset 80px 550px 500px 100px rgb(255, 255, 255) ;
+    padding: 0px 20px;
+}
+.headerImage{
+    height: 400px;
+    width: 300px;
+    display: block;
+    margin: auto;
+    }
+h1{
+    font-family: Gotham;
+    font-size: 55px;
+    word-spacing: 10px;
+    text-align: center;
+}
+h2{
+    font-family: Gotham;
+    font-size: 30px;
+    
+}
+#line{
+    background-color: black;
+    width: auto;
+    height: 2px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+.headerPhone{
+    display: inline-block;
+    margin: 0px 90px;
+}
+.headerEmail{
+    display: inline-block;
+    margin: 0px 90px;
+}
+.headerTelegram{
+    display: inline-block;
+    margin: 0px 90px;
+}
+.contacts{
+    text-align: center;
+}
+a{
+    font-family: cursive;
+    font-weight: bold;
+}
+.allText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 40px;
+    margin-top: 0px;
+}
+h3{
+    font-family: Gotham;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+textarea{
+    width: 980px;
+    height: 150px;
+}
