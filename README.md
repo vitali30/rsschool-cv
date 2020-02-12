@@ -1,2 +1,1 @@
-# rsscool-cv
-rsscool-cv
+https://github.com/vitali30/rsscool-cv
